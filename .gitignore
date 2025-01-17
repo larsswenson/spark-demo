@@ -1,0 +1,29 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# virt env
+venv/
+.env/
+
+# spark temp files
+spark-warehouse/
+metastore_db/
+.derby.log/
+
+# mac os
+.DS_Store
+
+# logs
+*.log
+
+# ivy cache
+.ivy2/
+
+# jupyter
+.ipynb_checkpoints/
