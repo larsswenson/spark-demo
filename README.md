@@ -2,7 +2,7 @@
 
 This repository contains example projects demonstrating various Apache Spark features using Python (`PySpark`). These examples cover Spark SQL, RDD, DataFrame, and Structured Streaming with Kafka integration.
 
-## 🚀 Prerequisites
+## Prerequisites
 - Python 3.8+
 - Apache Spark 3.5.4
 - Java 8 or higher
