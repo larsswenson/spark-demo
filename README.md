@@ -53,13 +53,19 @@ $ python rdd.py
 
 ## Configuration
 Ensure the following environment variables are properly configured:
+
 JAVA_HOME
+
 SPARK_HOME
 
 ## Features
+
 Apache Spark SQL
+
 RDD transformations and actions
+
 DataFrame operations
+
 Structured Streaming with Kafka
 
 ## License
